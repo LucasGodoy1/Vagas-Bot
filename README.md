@@ -13,7 +13,7 @@ O PegaVaga oferece uma vantagem competitiva ao monitorar vagas diretamente nas p
 Como Encontrar:
 
 ## Você pode acessar o bot pesquisando por: 
-#<br> @bob_vaga-bot no Telegram.
+# <br> @bob_vaga-bot no Telegram.
 <br>
 <img align="center" alt="Lucas" height="100" width="200" src="https://i.ibb.co/fSdqqxV/bob.png">
 <br>
