@@ -12,8 +12,8 @@ Este projeto é uma automação desenvolvida para facilitar a busca por vagas de
 O PegaVaga oferece uma vantagem competitiva ao monitorar vagas diretamente nas páginas das empresas, antes que elas sejam postadas em plataformas de terceiros, como o LinkedIn. Isso permite que o usuário seja um dos primeiros a se candidatar, aumentando suas chances de sucesso.
 Como Encontrar:
 
-## Você pode acessar o bot pesquisando por: 
-# <br> @bob_vaga-bot no Telegram.
+# Você pode acessar o bot pesquisando por: 
+### <br> @bob_vaga-bot no Telegram.
 <br>
 <img align="center" alt="Lucas" height="100" width="200" src="https://i.ibb.co/fSdqqxV/bob.png">
 <br>
