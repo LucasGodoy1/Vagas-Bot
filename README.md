@@ -19,3 +19,4 @@ Você pode acessar o bot pesquisando por:
 <br>
 <img align="center" alt="Lucas1" height="400" width="200" src="https://i.ibb.co/TYc8Yw7/telegran1.jpg">
 <img align="center" alt="Lucas1" height="400" width="200" src="https://i.ibb.co/qxrpCDG/telegran2.jpg">
+<img align="center" alt="Lucas1" height="400" width="200" src="https://i.ibb.co/WvQpCgH/ttel-egram3.jpg">
