@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79f0df2b-9d3b-4f15-af23-ea8c51e29b78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/ScreenmatchApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/ScreenmatchApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/model/DadosEpisodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/model/DadosEpisodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/model/DadosSerie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/model/DadosSerie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/service/ConsumoApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/service/ConsumoApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/service/IConverteDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Screenmatch/src/main/java/lucasgodoy1/com/github/screenmatch/service/IConverteDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screenmatch/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Screenmatch/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/LucasGodoy1/com/github/model/TelegraaAutoMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/LucasGodoy1/com/github/model/TelegraaAutoMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/LucasGodoy1/com/github/service/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/LucasGodoy1/com/github/service/teste.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jyb7MGkcjoExP2vw0zjVspefLu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ProjetosJava/pegaVaga/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f0df2b-9d3b-4f15-af23-ea8c51e29b78" name="Changes" comment="" />
+      <created>1722362095694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722362095694</updated>
+    </task>
+    <servers />
+  </component>
+</project>
