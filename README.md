@@ -14,4 +14,4 @@ Como Encontrar:
 
 Você pode acessar o bot pesquisando por @bob_vaga-bot no Telegram.
 <br>
-<img align="center" alt="Le-Python" height="200" width="400" src="https://i.ibb.co/fSdqqxV/bob.png">
+<img align="center" alt="Lucas" height="100" width="200" src="https://i.ibb.co/fSdqqxV/bob.png">
